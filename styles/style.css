@@ -218,3 +218,39 @@
     font-size: 18px;
     color: #777;
 }
+
+/* focus section style */
+
+.focus {
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 40px 20px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+    width: 1200px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+
+.focus-headline {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+.focus-description {
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+.focus-btn {
+    margin-bottom: 30px;
+}
+
+.focus-image img {
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
