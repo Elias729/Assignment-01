@@ -330,3 +330,40 @@
 .contact-form textarea {
     resize: none;
 }
+
+/* footer section style */
+
+.footer {
+    background-color: #fff;
+    padding: 60px 30px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.footer .logo {
+    font-size: 88px;
+    margin-bottom: 20px;
+}
+
+.footer .description {
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto 30px auto;
+    line-height: 1.6;
+}
+
+.footer .more-page ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.footer .more-page ul li a {
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
